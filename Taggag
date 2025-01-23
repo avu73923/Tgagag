@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/avu73923/-hhauhs/refs/heads/main/Ggg"))()
+local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/avu73923/-hhauhs/refs/heads/main/Ggg")))()
 
 
 local Window = OrionLib:MakeWindow({Name = "Việt Hoàng iOS", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
