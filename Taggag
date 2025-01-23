@@ -103,3 +103,50 @@ Tab:AddButton({
 loadstring(game:HttpGet("https://raw.githubusercontent.com/marisdeptrai/Script-Free/main/FruitFinder.lua"))()
         end
 })
+
+Tab:AddButton({
+	Name = "hoho hub v4",
+	Callback = function()
+  repeat wait(5) until game:IsLoaded()
+_G.HohoVersion = "v4"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
+        end
+})
+
+Tab:AddButton({
+	Name = "lol hub",
+	Callback = function()
+  repeat wait(5) until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cyber-Nonename/LoliHubV2/main/V2LoliHub"))() 
+        end
+})
+
+Tab:AddButton({
+	Name = "Viet Hoang ios-1",
+	Callback = function()
+  repeat wait(5) until game:IsLoaded()
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/avu73923/Ho-ng-/refs/heads/main/luxucuthanh.txt"))()
+        end
+})
+
+Tab:AddButton({
+	Name = "Viet Hoang ios-2",
+	Callback = function()
+  repeat wait(5) until game:IsLoaded()
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/avu73923/VietHoangiOS-2/refs/heads/main/oniichan%202.txt"))()
+        end
+})
+
+Tab:AddButton({
+	Name = "fram rương văn thành",
+	Callback = function()
+  repeat wait(5) until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VanThanhIOS/VanThanhLuxucu/refs/heads/main/vanthanhdeptrai.txt"))()
+        end
+})
+
+Tab:AddButton({
+	Name = "rubu tv v3",
+	Callback = function()
+  repeat wait(5) until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bubu2k/Rubutv/refs/heads/main/RubuHubV3.txt"))()
