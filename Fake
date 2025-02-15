@@ -1,0 +1,31 @@
+require(game.ReplicatedStorage:WaitForChild("Notification")).new(
+            " <Color=Yellow>Stored<MeMe frut>in inventory!<Color=/> "
+        ):Display()
+
+require(game.ReplicatedStorage:WaitForChild("Notification")).new(
+            " <Color=Yellow>Stored<Triple Dark Blade>in inventory!<Color=/> "
+        ):Display()
+
+require(game.ReplicatedStorage:WaitForChild("Notification")).new(
+            " <Color=Yellow>Stored<Permanent Rocket>in inventory!<Color=/> "
+        ):Display()
+
+require(game.ReplicatedStorage:WaitForChild("Notification")).new(
+            " <Color=Yellow>Stored<Permanent Dragon>in inventory!<Color=/> "
+        ):Display()
+
+require(game.ReplicatedStorage:WaitForChild("Notification")).new(
+            " <Color=Yellow>Stored<Permanent Yeti>in inventory!<Color=/> "
+        ):Display()
+
+require(game.ReplicatedStorage:WaitForChild("Notification")).new(
+            " <Color=Yellow>Stored<Permanent Gas>in inventory!<Color=/> "
+        ):Display()
+
+require(game.ReplicatedStorage:WaitForChild("Notification")).new(
+            " <Color=Yellow>Stored<300000000K Money>in inventory!<Color=/> "
+        ):Display()
+
+require(game.ReplicatedStorage:WaitForChild("Notification")).new(
+            " <Color=Yellow>Stored<10000000000000K Fragments>in inventory!<Color=/> "
+        ):Display()
